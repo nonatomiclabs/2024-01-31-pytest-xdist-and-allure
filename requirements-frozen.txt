@@ -1,0 +1,10 @@
+allure-pytest==2.13.2
+allure-python-commons==2.13.2
+attrs==23.2.0
+execnet==2.0.2
+iniconfig==2.0.0
+packaging==23.2
+pip==23.3.2
+pluggy==1.4.0
+pytest==8.0.0
+pytest-xdist==3.5.0
